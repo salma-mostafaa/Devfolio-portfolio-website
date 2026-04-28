@@ -45,7 +45,6 @@ project-folder/
 │   └── all project images
 └── README.md
 ```
----
 
 ##  Purpose
 
@@ -58,22 +57,6 @@ This project was built to improve:
 ---
 
 ##  Contact
-
-Email: salma.mostafa5x@gmail.com  
-GitHub: https://github.com/salma-mostafaa  
-LinkedIn: ---
-
-## 🎯 Purpose
-
-This project was built to improve:
-- Front-end development skills
-- Responsive UI design
-- Bootstrap layout system
-- JavaScript DOM interactions
-
----
-
-## 📬 Contact
 
 Email: salma.mostafa5x@gmail.com  
 GitHub: https://github.com/salma-mostafaa  
